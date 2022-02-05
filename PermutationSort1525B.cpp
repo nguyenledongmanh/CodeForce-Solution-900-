@@ -1,7 +1,7 @@
 #include <iostream>
 #define MAX_VAL 5000
 using namespace std;
-
+//Change commit
 void inputArray(int A[], int n) {
     for (int i = 0; i < n; i++) {
         cin >> A[i];
